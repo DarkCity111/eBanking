@@ -24,15 +24,10 @@
 </head>
 <body>
 
-<h1 class="text-center pt-lg-5">E-Banking Application Ultimate</h1>
-
-
-
-
 <div class="wrapper fadeInDown">
     <div id="formContent">
         <!-- Tabs Titles -->
-
+        <h1 class="text-center pt-lg-5">E-Banking</h1>
         <!-- Icon -->
         <div class="fadeIn first" >
             <img src="img/1200px-User_font_awesome.svg.png" id="icon" alt="User Icon"/>
